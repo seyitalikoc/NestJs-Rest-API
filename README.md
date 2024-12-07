@@ -47,13 +47,13 @@ git clone https://github.com/seyitalikoc/NestJs-Rest-API.git
 cd restapi/project-name
 ```
 
-### Adım 3: Bağımlılıkları Yükleyin
+### Adım 2: Bağımlılıkları Yükleyin
 Projede kullanılan npm bağımlılıklarını yüklemek için şu komutu çalıştırın:
 ```bash
 npm install
 ```
 
-### Adım 4: Uygulamayı Çalıştırın
+### Adım 3: Uygulamayı Çalıştırın
 Uygulamayı yerel ortamda çalıştırmak için aşağıdaki komutu kullanın:
 
 ```bash
